@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+PlotAOR(data = ${1:data}, x = ${2:NULL}, y = ${3:NULL}, scenarios = ${4:NULL}, fixed = ${5:TRUE},
+ title = ${6:NULL}, legendtitle = ${7:NULL}, triangle = ${8:FALSE}, trigger = ${9:0},
+ brewerpal = ${10:NULL}, shape = ${11:FALSE}) 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>PlotAOR</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.r</scope>
+</snippet>
