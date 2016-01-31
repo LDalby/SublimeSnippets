@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+CalcHabitatUseFit(FieldData = ${1:fielddata}, SimData = "${2:simdata}") 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>PlotProbe0</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.r</scope>
+</snippet>
