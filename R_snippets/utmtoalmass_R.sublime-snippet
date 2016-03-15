@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+UtmToAlmass(data = ${1:data}, long = ${2:long}, lat = ${3:lat},
+ map = ${4:'VejlerneBigMap'}, subset = ${5:TRUE}, toalmass = ${5:TRUE})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>UtmToAlmass</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.r</scope>
+</snippet>
